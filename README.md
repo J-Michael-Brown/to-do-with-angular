@@ -1,6 +1,12 @@
-# ToDoNew
+# _To do new_
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+#### _Site that allows a user to keep track of Tasks (but not lists), 1/22/19_
+
+#### By _**J. Michael Brown, and Christopher Cahill**_
+
+## Description
+
+_A user may add tasks to a list of tasks that will be kept track of by the site._
 
 ## Development server
 
@@ -14,14 +20,46 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Known Bugs
+
+_This is a dev build that was cut part way through. Final application should have had the ability to add new tubs of ice cream, and the ability for customers to purchase ice cream by the scoop. This was a single day project and will likely not be continued._
+
+## Support and contact details
+
+_You may contact Michael @jmichaelbrown132737@gmail.com_
+
+## Technologies Used
+
+* [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+
+* JavaScript
+
+* jQuery
+
+### License
+
+MIT License
+
+Copyright (c) 2018, _J. Michael Brown, and Christopher Cahill_  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:  
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE._
